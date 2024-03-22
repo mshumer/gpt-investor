@@ -13,7 +13,7 @@ Claude-Investor is an experimental investment analysis agent that utilizes the C
 - Retrieves analyst ratings and price targets for each company
 - Conducts industry and sector analysis to understand market trends and competitive landscape
 - Generates comparative analyses between the selected company and its peers
-- Provides a final investment recommendation for each company based on the comprehensive analysis
+- Provides a final investment recommendation for each company based on the comprehensive analysis, including price targets
 - Ranks the companies within the industry based on their investment attractiveness
 
 ## Requirements
