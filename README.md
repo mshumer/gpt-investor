@@ -44,6 +44,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+Some known improvement areas:
+- improve the industry analysis module to use real-time data
+
 ## Contact
 
 Matt Shumer - [@mattshumer_](https://twitter.com/mattshumer_)
