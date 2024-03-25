@@ -1,4 +1,4 @@
-# gpt-investor
+# gpt-investor :
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://twitter.com/mattshumer_)
 # Claude-Investor | The first release in the gpt-investor repo
